@@ -1,5 +1,10 @@
-###  Languages and Tools :hammer_and_wrench:
+<div align="center">
 
+![image](https://www.codewars.com/users/grand3680/badges/large)
+
+</div>
+
+###  Languages and Tools :hammer_and_wrench:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="TailwindCSS" alt="Tailwindcss" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Next" **alt="Next" width="40" height="40"/>&nbsp;
